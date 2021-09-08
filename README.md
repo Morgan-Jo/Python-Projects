@@ -1,4 +1,5 @@
 # Python Projects
 
-#### Milestone Project 2
-Part of my pthyon cousre 
+These Project were all completed as part of python cousre that I have complete
+
+### Black Jack Game
